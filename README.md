@@ -1,6 +1,6 @@
 # Tree Inspection Kit (TIK) firmware
 
-This repository contains the unfinished firmware from my bachelor's thesis in telecommunications engineering at the University of Granada, Spain, 2022. For the hardware, see this other repo: [Bachelor_Thesis_TIK_hardware](https://github.com/dpmj/Bachelor_Thesis_TIK_firmware).
+This repository contains the unfinished firmware from my bachelor's thesis in telecommunications engineering at the University of Granada, Spain, 2022. For the hardware, see this other repo: [Bachelor_Thesis_TIK_hardware](https://github.com/dpmj/Bachelor_Thesis_TIK_hardware).
 
 This project marks the beginning of the development of a handheld device that can measure the modulus of elasticity of wood, a figure of great value for structural purposes, in a non-destructive way by analyzing acoustic signals. Developed with the help of the GranaSAT Electronics Aerospace Group and the IDIE-ADIME Institute, this project is part of the European LIFE Wood for Future initiative. The project encompasses every step in developing an electronic product, including conception, requirements specification, architecture and components selection, topology selection, circuit and PCB design, mechanical design, manufacturing, assembly, firmware, and prototype fabrication. 
 
